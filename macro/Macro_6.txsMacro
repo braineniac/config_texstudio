@@ -1,0 +1,16 @@
+{
+    "abbrev": "lstp",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "lstpy",
+    "shortcut": "",
+    "tag": [
+        "\\begin{lstlisting}",
+        "\t",
+        "\\end{lstlisting}"
+    ],
+    "trigger": "lstp"
+}

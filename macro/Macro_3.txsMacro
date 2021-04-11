@@ -1,0 +1,14 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "item",
+    "shortcut": "",
+    "tag": [
+        "\\item"
+    ],
+    "trigger": "iii"
+}

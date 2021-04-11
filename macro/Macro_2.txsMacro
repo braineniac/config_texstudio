@@ -1,0 +1,16 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "pic",
+    "shortcut": "",
+    "tag": [
+        "\\begin{center}",
+        "\t\\includegraphics[width=0.5\\textwidth]{.jpg}",
+        "\\end{center}"
+    ],
+    "trigger": "ppp"
+}
